@@ -73,8 +73,8 @@ class ModernSlider {
       {
         title: "Personal Portfolio",
         image: "src/webp/portfolio.png",
-        github: "https://github.com/niteshverma01/Myportfolio",
-        live: "https://niteshverma01.github.io/Myportfolio/",
+        github: "https://github.com/niteshverma01/nitesh-verma-portfolio",
+        live: "https://niteshverma01.github.io/nitesh-verma-portfolio/",
       },
       {
         title: "Netflix",
@@ -214,7 +214,6 @@ class ModernSlider {
     }, { passive: false });
 }
 
-// Add this line in the init() method:
 
 
 

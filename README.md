@@ -1,4 +1,4 @@
-# <a href="https://vinodjangid07.github.io/" target="_blank">My Portfolio</a>
+# <a href="https://niteshverma01.github.io/nitesh-verma-portfolio/" target="_blank">My Portfolio</a>
 <p align="justify">This website displays my Projects, Web presence, Story, Work experience, and contact information.</p>
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)]((https://github.com/niteshverma01/Myportfolio))
